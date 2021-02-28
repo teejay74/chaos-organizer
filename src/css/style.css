@@ -554,8 +554,6 @@ p, br {
 }
 
 .task-block {
-  display: flex;
-  flex-direction: column; 
   padding: 5px 10px;
   box-sizing: border-box;
   border: 2px solid seagreen;
